@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/moive_app/precache-manifest.8e4148daddf99f85e437e92d08dcc19a.js"
+  "/moive_app/precache-manifest.c2483e7f259e7a140a98fb33e29b7f4a.js"
 );
 
 workbox.clientsClaim();
