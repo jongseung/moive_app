@@ -20,12 +20,17 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "http://jongseung.github.io/movie_app"
 
+  "homepage": "http://jongseung.github.io/moive_app",
+  
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
