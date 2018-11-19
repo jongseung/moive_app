@@ -1,0 +1,13 @@
+{
+  "main.css": "/moive_app/static/css/main.636b1e54.chunk.css",
+  "main.js": "/moive_app/static/js/main.f969a325.chunk.js",
+  "main.js.map": "/moive_app/static/js/main.f969a325.chunk.js.map",
+  "static/js/1.392d6e18.chunk.js": "/moive_app/static/js/1.392d6e18.chunk.js",
+  "static/js/1.392d6e18.chunk.js.map": "/moive_app/static/js/1.392d6e18.chunk.js.map",
+  "runtime~main.js": "/moive_app/static/js/runtime~main.d95a78f6.js",
+  "runtime~main.js.map": "/moive_app/static/js/runtime~main.d95a78f6.js.map",
+  "static/css/main.636b1e54.chunk.css.map": "/moive_app/static/css/main.636b1e54.chunk.css.map",
+  "index.html": "/moive_app/index.html",
+  "precache-manifest.8e4148daddf99f85e437e92d08dcc19a.js": "/moive_app/precache-manifest.8e4148daddf99f85e437e92d08dcc19a.js",
+  "service-worker.js": "/moive_app/service-worker.js"
+}
